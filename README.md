@@ -1,4 +1,4 @@
-# SapCxDebugChromePlugin
+# SapCxChromeDebbuger
 
 
 1- Clone source or download zip from gitHub
